@@ -13,7 +13,7 @@ Delighted to be a speaker at Italy's premier agile conference, IAD23, I dived in
 
 ## Talk Overview
 In this engaging talk, we explored the correlation of IDPs on code quality. While known for speeding up delivery, IDPs alone couldn't promise substantial improvements in code quality. We delved into the limitations, presenting compelling data to illustrate the code quality gap.
-During the session, I used a visually engaging [slide deck](https://github.com/undeadgrishnackh/iad23/blob/main/path-to-your-pdf/202311_AgileDays_Italy.pdf) to ensure clarity and audience engagement.
+During the session, I used a visually engaging [slide deck](https://github.com/undeadgrishnackh/iad23/blob/main/202311_AgileDays_Italy.pdf) to ensure clarity and audience engagement.
 
 [![PDF](https://github.com/undeadgrishnackh/iad23/raw/main/202311_AgileDays_Italy.pdf)](https://github.com/undeadgrishnackh/iad23/blob/main/202311_AgileDays_Italy.pdf)
 

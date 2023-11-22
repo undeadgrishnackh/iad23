@@ -18,6 +18,8 @@ During the session, I used a visually engaging [slide deck](https://github.com/u
 
 🚧 Work in progress 🚧
 
+![talk](iad23_talk.jpeg)
+
 ---
 
 ## 👉 TLDR: The Conclusion
